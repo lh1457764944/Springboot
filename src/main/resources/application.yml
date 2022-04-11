@@ -1,0 +1,8 @@
+server:
+  port: 8082
+mysqlsource:
+  url:  jdbc:mysql://localhost:3306
+  username: zrzn_data
+  password: LC@20on#fkj)
+  driverClassName: com.mysql.cj.jdbc.Driver
+
